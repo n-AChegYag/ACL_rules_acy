@@ -2,3 +2,5 @@
 # REPO: https://github.com/n-AChegYag/ACL_rules_acy
 
 DOMAIN-SUFFIX,starlight98.top
+IP-CIDR,45.147.51.155/32
+IP-CIDR,72.18.82.69/32
